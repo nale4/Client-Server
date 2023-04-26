@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\bin\Debug\Klient-Server.exe.config
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\bin\Debug\Klient-Server.exe
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\bin\Debug\Klient-Server.pdb
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\Klient-Server.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\Klient-Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\MainWindow.g.cs
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\App.g.cs
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\Klient-Server_MarkupCompile.cache
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\Klient-Server_MarkupCompile.lref
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\MainWindow.baml
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\Klient-Server.g.resources
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\Klient_Server.Properties.Resources.resources
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\Klient-Server.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\Klient-Server.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\Klient-Server.exe
+C:\Users\anton\source\repos\Klient-Server\Klient-Server\obj\Debug\Klient-Server.pdb

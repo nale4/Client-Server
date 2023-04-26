@@ -1,0 +1,21 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="472" Width="800">
+    <Grid>
+        <Label Content="Client log" HorizontalAlignment="Left" Margin="40,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.506,-0.194"/>
+        <TextBox x:Name="log" HorizontalAlignment="Left" Margin="59,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="641" Height="276"/>
+        <TextBox x:Name="name" HorizontalAlignment="Left" Margin="59,362,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="209" Height="35"/>
+        <TextBox x:Name="massege" HorizontalAlignment="Left" Margin="320,362,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="314" Height="62"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="40,331,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.506,-0.194"/>
+        <Label Content="Massage" HorizontalAlignment="Left" Margin="306,331,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.506,-0.194"/>
+        <Button Content="Connect" HorizontalAlignment="Left" Margin="668,334,0,0" VerticalAlignment="Top" Width="103" Click="Button_Click"/>
+        <Button Content="Disconnect" HorizontalAlignment="Left" Margin="668,365,0,0" VerticalAlignment="Top" Width="103" Click="Button_Click_1"/>
+        <Button Content="Send" HorizontalAlignment="Left" Margin="668,404,0,0" VerticalAlignment="Top" Width="103" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>
